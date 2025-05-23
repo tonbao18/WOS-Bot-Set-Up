@@ -4,6 +4,7 @@
 ## 🚩 Table of Contents
 
 - [Download](#Download)
+- [Create New Account on WOS Mobile App](#Create-New-Account)
 - [Optimize Performance](#Instance-Settings)
 - [Arrange Windows](#Arrange-Windows)
 
@@ -13,7 +14,9 @@
 
 Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 
-##New Linked Account on WOS Mobile App
+<a name="Create-New-Account"/>
+
+##Create New Account on WOS Mobile App
 
 1. Create a new Gmail account, have separate Gmail accounts for each bot
 2. Kill WOS app and reopen
@@ -26,13 +29,14 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 9. Ask R4 alliance member to send your bot an alliance invite
 10. Accept new alliance invite
 11. Sign into the linked account on desktop emulator
+12. Delete default character: Go to Settings > Other > Delete character
 
 ##Desktop Setup: Multi-Instance 
 
 1. Open MuMu Multi-Instance 12 app
 2. Create new: The ways to create a new Multi-instance include add new, batch/advanced create, and import.
    - Click "+New" - "Android 12 emulator", the default configuration will be used to quickly create a new Android 12 emulator in the Multi-instance list.
-   ![alt text]()
+   ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Multi-Instance.png)
 3. Setup up [Instance Settings](#Instance-Settings)
 4. Open new instance
 5. Go to System Application folder > Play Store
@@ -40,7 +44,10 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 7. Open WOS app 
 8. Click on account icon while in loading screen
 9. Connect to your linked Gmail account
-   ![alt text]()
+   ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Performance%20Ram.png)
+10. For additional accounts, copy instance and repeat step 8-9 for other linked accounts.
+    ![alt text]()
+   
 <a name="Instance-Settings"/>
 
 ## Instance Settings
