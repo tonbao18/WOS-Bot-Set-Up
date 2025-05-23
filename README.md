@@ -3,16 +3,13 @@
 
 ## 🚩 Table of Contents
 
-- [Why TOAST UI Editor?](#-why-toast-ui-editor)
-- [Features](#-features)
-- [Browser Support](#-browser-support)
-- [Pull Request Steps](#-pull-request-steps)
-
+- [Download](#-Download)
+- [Features](#-Settings)
+- [Browser Support](#-Arrange-Windows)
   
 ## Download
 
 Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
-
 
 ## Settings
 
@@ -27,8 +24,6 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 7. Click "Frame Rate Setting" - Select "Dynamically adjust frame rate" to automatically reduce the non-operating window of the emulator to 15 frames, making the emulator in operation run more smoothly;
 8. Click "Audio" - Select "Close system sound" to turn off the emulator sound from the system to reduce CPU usage during runtime.
 9. Finally, save the settings and restart the emulator.
-
-
 
 ## Arrange Windows
 
