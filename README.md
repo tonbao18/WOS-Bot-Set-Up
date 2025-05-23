@@ -4,14 +4,14 @@
 ## 🚩 Table of Contents
 
 - [Download](#-Download)
-- [Features](#-Settings)
-- [Browser Support](#-Arrange-Windows)
+- [Optimize Performance](#-Optimize-Performance)
+- [Arrange Windows](#-Arrange-Windows)
   
 ## Download
 
 Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 
-## Settings
+## Optimize Performance
 
 [Follow this MuMu Player guide for optimal performance settings](https://www.mumuplayer.com/faq/improve-multi-instance-performance.html)
 
