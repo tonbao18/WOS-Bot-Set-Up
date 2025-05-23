@@ -6,7 +6,8 @@
 - [Download](#Download)
 - [Optimize Performance](#-Optimize-Performance)
 - [Arrange Windows](#-Arrange-Windows)
-  
+
+<a name="Download" />
 ## Download {#Download}
 
 Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
