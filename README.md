@@ -1,5 +1,5 @@
 
-<img src="https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/WOS%20Banner.png" alt="" align="center" width="auto" height="auto">
+<img src="https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/WOS%20Banner.png" alt="" align="center" width="auto" height="auto">
 
 ## 🚩 Table of Contents
 
