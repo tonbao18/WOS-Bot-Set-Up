@@ -4,7 +4,7 @@
 ## 🚩 Table of Contents
 
 - [Download](#Download)
-- [Optimize Performance](#Troubleshoot-Performance)
+- [Optimize Performance](#Instance-Settings)
 - [Arrange Windows](#Arrange-Windows)
 
 <a name="Download"/>
@@ -20,9 +20,9 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
    - Click "+New" - "Android 12 emulator", the default configuration will be used to quickly create a new Android 12 emulator in the Multi-instance list;
    - Click "+New" - "Batch create", you can customize the number of emulators, graphics card rendering mode, performance configuration, resolution and then create new ones;
 
-<a name="Troubleshoot-Performance"/>
+<a name="Instance-Settings"/>
 
-## Troubleshoot Performance
+## Instance Settings
 
 [Follow this MuMu Player guide for optimal performance settings](https://www.mumuplayer.com/faq/improve-multi-instance-performance.html)
 
@@ -32,7 +32,7 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
    
 2. Click "Performance" to customize the settings, and appropriately reduce the number of processor cores and running memory according to the computer configuration.
 
-   ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Ram.png)
+   ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Performance%20Ram.png)
    
 3. Click "Graphics memory usage strategy" - select "less resource usage" to reduce the graphics memory and memory usage when a single emulator is running.
 4. Click "Other" - select "Forced use of dedicate graphics card", use dedicate graphics cards to run the emulator, and the screen will be smoother.
