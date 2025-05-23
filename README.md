@@ -4,13 +4,16 @@
 ## 🚩 Table of Contents
 
 - [Download](#Download)
-- [Optimize Performance](#-Optimize-Performance)
-- [Arrange Windows](#-Arrange-Windows)
+- [Optimize Performance](#Optimize-Performance)
+- [Arrange Windows](#Arrange-Windows)
 
-<a name="Download" />
-## Download {#Download}
+<a name="Download"/>
+
+##Download
 
 Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
+
+<a name="Optimize-Performance"/>
 
 ## Optimize Performance
 
@@ -46,6 +49,8 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
     ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Audio.png)
     
 12. Finally, save the settings and restart the emulator.
+
+<a name="Arrange-Windows"/>
 
 ## Arrange Windows
 
