@@ -3,11 +3,11 @@
 
 ## 🚩 Table of Contents
 
-- [Download](#-Download)
+- [Download](#Download)
 - [Optimize Performance](#-Optimize-Performance)
 - [Arrange Windows](#-Arrange-Windows)
   
-## Download
+## Download {#Download}
 
 Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 
