@@ -4,7 +4,7 @@
 ## 🚩 Table of Contents
 
 - [Download](#Download)
-- [Optimize Performance](#Optimize-Performance)
+- [Optimize Performance](#Troubleshoot-Performance)
 - [Arrange Windows](#Arrange-Windows)
 
 <a name="Download"/>
@@ -13,9 +13,16 @@
 
 Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 
-<a name="Optimize-Performance"/>
+##Multi-Instance
 
-## Optimize Performance
+1. Open MuMu Multi-Instance 12 app
+2. Create new: The ways to create a new Multi-instance include add new, batch/advanced create, and import.
+   - Click "+New" - "Android 12 emulator", the default configuration will be used to quickly create a new Android 12 emulator in the Multi-instance list;
+   - Click "+New" - "Batch create", you can customize the number of emulators, graphics card rendering mode, performance configuration, resolution and then create new ones;
+
+<a name="Troubleshoot-Performance"/>
+
+## Troubleshoot Performance
 
 [Follow this MuMu Player guide for optimal performance settings](https://www.mumuplayer.com/faq/improve-multi-instance-performance.html)
 
