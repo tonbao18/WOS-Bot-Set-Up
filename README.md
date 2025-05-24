@@ -1,14 +1,22 @@
 
 <img src="https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/WOS%20Banner.png" alt="" align="center" width="100%" height="auto">
 
-Table of Contents
+#Table of Contents
 
-[Macro](#Macro)
+   1. [Download](#Download)
+   2. [New Account](#New-Account)
+   3. [Multi-Instance](#Multi-Instance)
+   4. [Instance Settings](#Instance-Settings)
+   5. [Macro](#Macro)
+   6. [TAP TAP](#TAP=TAP)
+
+<a name="Download" />
 
 # Download
 
 Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 
+<a name="New Account" />
 
 # Create New Account on WOS Mobile App
 
@@ -25,8 +33,9 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 11. Sign into the linked account on desktop emulator
 12. Delete default character: Go to Settings > Other > Delete character
 
+<a name="Multi-Instance" />
 
-# Desktop Setup: Multi-Instance 
+# Multi-Instance 
 
 1. Open MuMu Multi-Instance 12 app
 2. Create new: The ways to create a new Multi-instance include add new, batch/advanced create, and import.
@@ -46,6 +55,7 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 
    ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Copy%20Instance.png)
 
+<a name="Instance Settings" />
 
 # Instance Settings
 
@@ -82,9 +92,12 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
     
 12. Finally, save the settings and restart the emulator.
 
+<a name="Macro" />
 
 # Macro Record & Play {#Macro}
 https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Tap%20Tap.mp4
+
+<a name="TAP TAP" />
 
 # Import TAP TAP Script
 
@@ -96,6 +109,7 @@ https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Tap%20Tap.mp4
 
 [!alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Import%20Script.png)
 
+<a name="some-id" />
 
 # Reference
 
