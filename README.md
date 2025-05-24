@@ -97,21 +97,27 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 <a name="Macro" />
 
 # Macro Record & Play
-[Watch how to create macro, config settings, and play](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Tap%20Tap.mp4)
+   [Watch how to create macro, config settings, and play](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Tap%20Tap.mp4)
 
 1. Go to Operation Recorder
 
-![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Operations%20Recorder.png)
+   ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Operations%20Recorder.png)
 
-2. [Import Tap Tap script](#TAP-TAP) or Create a new macro
+2. [Import Tap Tap script](#TAP-TAP)
 
-![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Create%20Macro.png)
+   or Create a new macro
 
-3. Config macro settings to infinite loop
+   ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Create%20Macro.png)
+
+3. Recording started, go to Alliance tab > Help > Click on Help All > End script recording
    
-![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Tap%20Tap%20Settings.png)
+   ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Click%20Help.png)
+   
+4. Config macro settings to infinite loop
+   
+   ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Tap%20Tap%20Settings.png)
 
-![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Macro%20Setting.png)
+   ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Macro%20Setting.png)
 
 
 <a name="TAP TAP" />
@@ -120,11 +126,11 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 
 ### Download script
 
-[Tap Tap.mmor](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/Tap%20Tap.mmor)
+   [Tap Tap.mmor](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/Tap%20Tap.mmor)
 
 ### Import script
 
-![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Import%20Script.png)
+   ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Import%20Script.png)
 
 <a name="Reference" />
 
