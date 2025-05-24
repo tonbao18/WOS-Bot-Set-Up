@@ -1,11 +1,13 @@
 
 <img src="https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/WOS%20Banner.png" alt="" align="center" width="100%" height="auto">
 
-##Download
+
+# Download
 
 Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 
-##Create New Account on WOS Mobile App
+
+# Create New Account on WOS Mobile App
 
 1. Create a new Gmail account, have separate Gmail accounts for each bot
 2. Kill WOS app and reopen
@@ -20,7 +22,8 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 11. Sign into the linked account on desktop emulator
 12. Delete default character: Go to Settings > Other > Delete character
 
-##Desktop Setup: Multi-Instance 
+
+# Desktop Setup: Multi-Instance 
 
 1. Open MuMu Multi-Instance 12 app
 2. Create new: The ways to create a new Multi-instance include add new, batch/advanced create, and import.
@@ -40,7 +43,8 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 
    ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Copy%20Instance.png)
 
-## Instance Settings
+
+# Instance Settings
 
 [Follow this MuMu Player guide for optimal performance settings](https://www.mumuplayer.com/faq/improve-multi-instance-performance.html)
 
@@ -76,6 +80,6 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 12. Finally, save the settings and restart the emulator.
 
 
-## Reference
+# Reference
 
 https://www.mumuplayer.com/faq/multi-instance-guide.html#4.Copy,backup,set,delete,andcreateshortcutstartupmethods(operablewhentheemulatorisnotstarted)
