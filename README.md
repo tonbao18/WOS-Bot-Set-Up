@@ -8,7 +8,7 @@
    3. [Multi-Instance](#Multi-Instance)
    4. [Instance Settings](#Instance-Settings)
    5. [Macro](#Macro)
-   6. [TAP TAP](#TAP=TAP)
+   6. [TAP TAP](#TAP-TAP)
 
 <a name="Download" />
 
@@ -40,14 +40,16 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 1. Open MuMu Multi-Instance 12 app
 2. Create new: The ways to create a new Multi-instance include add new, batch/advanced create, and import.
    - Click "+New" - "Android 12 emulator", the default configuration will be used to quickly create a new Android 12 emulator in the Multi-instance list.
+     
    ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Multi-Instance.png)
-3. Setup up [Instance Settings](#Instance-Settings)
-4. Open new instance
-5. Go to System Application folder > Play Store
-6. Search for WOS and install app
-7. Open WOS app 
-8. Click on account icon while in loading screen
-9. Connect to your linked Gmail account
+   
+4. Setup up [Instance Settings](#Instance-Settings)
+5. Open new instance
+6. Go to System Application folder > Play Store
+7. Search for WOS and install app
+8. Open WOS app 
+9. Click on account icon while in loading screen
+10. Connect to your linked Gmail account
 
     ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Performance%20Ram.png)
    
@@ -55,11 +57,10 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 
    ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Copy%20Instance.png)
 
+
 <a name="Instance Settings" />
 
 # Instance Settings
-
-[Follow this MuMu Player guide for optimal performance settings](https://www.mumuplayer.com/faq/improve-multi-instance-performance.html)
 
 1. Open MuMu MultiPlayer 12, select the emulators you want to run, and click "Batch Settings".
    
@@ -92,10 +93,26 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
     
 12. Finally, save the settings and restart the emulator.
 
+
 <a name="Macro" />
 
-# Macro Record & Play {#Macro}
-https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Tap%20Tap.mp4
+# Macro Record & Play
+[Watch how to create macro, config settings, and play](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Tap%20Tap.mp4)
+
+1. Go to Operation Recorder
+
+![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Operations%20Recorder.png)
+
+2. [Import Tap Tap script](#TAP-TAP) or Create a new macro
+
+![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Create%20Macro.png)
+
+3. Config macro settings to infinite loop
+   
+![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Tap%20Tap%20Settings.png)
+
+![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Macro%20Setting.png)
+
 
 <a name="TAP TAP" />
 
@@ -107,9 +124,9 @@ https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Tap%20Tap.mp4
 
 ### Import script
 
-[!alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Import%20Script.png)
+![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Import%20Script.png)
 
-<a name="some-id" />
+<a name="Reference" />
 
 # Reference
 
