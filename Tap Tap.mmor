@@ -1,0 +1,53 @@
+{
+    "actions": [
+        {
+            "data": "{\"cmd\":\"detect_app\",\"params\":{\"app\":\"Whiteout Survival\",\"package\":\"com.gof.global\"}}",
+            "extra1": "",
+            "extra2": "",
+            "timing": 0,
+            "type": "vcontrol"
+        },
+        {
+            "data": "press_rel:(0.481944,0.932813)",
+            "extra1": "1",
+            "extra2": "",
+            "timing": 2054,
+            "type": "touch"
+        },
+        {
+            "data": "release",
+            "extra1": "1",
+            "extra2": "",
+            "timing": 121,
+            "type": "touch"
+        },
+        {
+            "data": "release",
+            "extra1": "4",
+            "extra2": "",
+            "timing": 1545,
+            "type": "touch"
+        },
+        {
+            "data": "release",
+            "extra1": "7",
+            "extra2": "",
+            "timing": 0,
+            "type": "touch"
+        },
+        {
+            "data": "reset",
+            "extra1": "",
+            "extra2": "",
+            "timing": 0,
+            "type": "touch"
+        }
+    ],
+    "info": {
+        "create_time": 1745668348049,
+        "package_name": "com.gof.global",
+        "resolution_x": 720,
+        "resolution_y": 1280,
+        "total_running_time": 3720
+    }
+}
