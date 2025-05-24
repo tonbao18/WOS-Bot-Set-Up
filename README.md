@@ -1,20 +1,9 @@
 
 <img src="https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/WOS%20Banner.png" alt="" align="center" width="100%" height="auto">
 
-## 🚩 Table of Contents
-
-- [Download](#Download)
-- [Create New Account on WOS Mobile App](#Create-New-Account)
-- [Optimize Performance](#Instance-Settings)
-- [Arrange Windows](#Arrange-Windows)
-
-<a name="Download"/>
-
 ##Download
 
 Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
-
-<a name="Create-New-Account"/>
 
 ##Create New Account on WOS Mobile App
 
@@ -44,11 +33,12 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 7. Open WOS app 
 8. Click on account icon while in loading screen
 9. Connect to your linked Gmail account
-   ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Performance%20Ram.png)
-10. For additional accounts, copy instance and repeat step 8-9 for other linked accounts.
-    ![alt text]()
+
+    ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Performance%20Ram.png)
    
-<a name="Instance-Settings"/>
+11. For additional accounts, copy instance and repeat step 8-9 for other linked accounts.
+
+   ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Copy%20Instance.png)
 
 ## Instance Settings
 
@@ -85,8 +75,7 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
     
 12. Finally, save the settings and restart the emulator.
 
-<a name="Arrange-Windows"/>
 
-## Arrange Windows
+## Reference
 
 https://www.mumuplayer.com/faq/multi-instance-guide.html#4.Copy,backup,set,delete,andcreateshortcutstartupmethods(operablewhentheemulatorisnotstarted)
