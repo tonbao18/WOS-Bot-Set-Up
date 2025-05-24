@@ -1,6 +1,9 @@
 
 <img src="https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/WOS%20Banner.png" alt="" align="center" width="100%" height="auto">
 
+Table of Contents
+
+[Macro](#Macro)
 
 # Download
 
@@ -9,9 +12,9 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 
 # Create New Account on WOS Mobile App
 
+** Skip if you already created a character in your state. 
 1. Create a new Gmail account, have separate Gmail accounts for each bot
-2. Kill WOS app and reopen
-3. On loading page, click account icon to change accounts
+2. On WOS mobile app, go to Settings > Account > Change Account > Google Account
 4. Link to new Gmail account
 5. Click through storyline until you can click on player Avatar
 6. Go to settings
@@ -78,6 +81,20 @@ Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
     ![alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Audio.png)
     
 12. Finally, save the settings and restart the emulator.
+
+
+# Macro Record & Play {#Macro}
+https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Tap%20Tap.mp4
+
+# Import TAP TAP Script
+
+### Download script
+
+[Tap Tap.mmor](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/Tap%20Tap.mmor)
+
+### Import script
+
+[!alt text](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/_Import%20Script.png)
 
 
 # Reference
