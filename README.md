@@ -1,11 +1,11 @@
 
 <img src="https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/WOS%20Banner.png" alt="" align="center" width="100%" height="auto">
 
-##Download
+Download
 
 Emulator: [Mumu Player](https://www.mumuplayer.com/download/)
 
-##Create New Account on WOS Mobile App
+Create New Account on WOS Mobile App
 
 1. Create a new Gmail account, have separate Gmail accounts for each bot
 2. Kill WOS app and reopen
