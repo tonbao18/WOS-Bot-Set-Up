@@ -10,6 +10,8 @@
    5. [Macro](#Macro)
    6. [TAP TAP](#TAP-TAP)
 
+![till](https://github.com/tonbao18/WOS-Bot-Set-Up/blob/main/src/SvS_Bots.gif)
+
 <a name="Download" />
 
 # Download
